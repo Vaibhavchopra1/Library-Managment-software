@@ -1,5 +1,3 @@
-Here's a revised version of your GitHub project description:
-
 # Library-Management-Software
 
 This library management software is a cross-functional application that can be used by various departments:
